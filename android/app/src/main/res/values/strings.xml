@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hinata</string>
+    <string name="title_activity_main">Hinata</string>
+    <string name="package_name">com.hinata.assistant</string>
+    <string name="custom_url_scheme">com.hinata.assistant</string>
+</resources>
